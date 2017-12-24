@@ -1,0 +1,13 @@
+{
+  "name": "Cole-sCodingJourney",
+  "version": "1.0.0",
+  "description": "A website that illustrates my coding journey, the ups and downs and how i started!",
+  "main": "server.js",
+  "repository": "https://github.com/MangoStar/Cole-sCodingJourney.git",
+  "author": "MangoStart <ColePM621@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "2.0.4",
+    "express": "4.16.2"
+  }
+}
